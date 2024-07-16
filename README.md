@@ -1,2 +1,3 @@
-# challenge-conversor-de-moneda
-Challenge 1 de alura/oracle para java backend
+# Challenge: Conversor de monedas
+
+Aqui iria el proyecto, si no tuviera que trabajar 😿
